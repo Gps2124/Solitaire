@@ -483,15 +483,15 @@ public class Main {
 
         System.out.println("Available Cards:\n");
 
-//        System.out.print("Stock: " + "[" + "??" + "]" + " ");
-//        System.out.println("Waste: " + waste_1);
-//        System.out.println("Tableau 1: " + tableau_1);
-//        System.out.println("Tableau 2: " + tableau_2);
-//        System.out.println("Tableau 3: " + tableau_3);
-//        System.out.println("Tableau 4: " + tableau_4);
-//        System.out.println("Tableau 5: " + tableau_5);
-//        System.out.println("Tableau 6: " + tableau_6);
-//        System.out.println("Tableau 7: " + tableau_7);
+        System.out.print("Stock: " + "[" + "??" + "]" + " ");
+        System.out.println("Waste: " + waste_1);
+        System.out.println("Tableau 1: " + tableau_1);
+        System.out.println("Tableau 2: " + tableau_2);
+        System.out.println("Tableau 3: " + tableau_3);
+        System.out.println("Tableau 4: " + tableau_4);
+        System.out.println("Tableau 5: " + tableau_5);
+        System.out.println("Tableau 6: " + tableau_6);
+        System.out.println("Tableau 7: " + tableau_7);
 
         graphics();
     }
