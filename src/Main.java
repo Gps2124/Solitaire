@@ -5,7 +5,8 @@ import java.util.List;
 
 public class Main {
 
-    //standard deck of cards
+    //list of standard deck of cards
+
     static List<String> cards = Arrays.asList(
             "AS", "2S", "3S", "4S", "5S", "6S", "7S", "8S", "9S", "XS", "JS", "QS", "KS",
             "AD", "2D", "3D", "4D", "5D", "6D", "7D", "8D", "9D", "XD", "JD", "QD", "KD",
